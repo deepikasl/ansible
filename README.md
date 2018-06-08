@@ -1,6 +1,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/ansible.svg)](https://pypi.python.org/pypi/ansible)
 [![Build Status](https://api.shippable.com/projects/573f79d02a8192902e20e34b/badge?branch=devel)](https://app.shippable.com/projects/573f79d02a8192902e20e34b)
 [![Run Status](https://rcapi.shippable.com/projects/5ad044e973c57407000f8690/badge?branch=devel)](https://rcapp.shippable.com/github/deepikasl/ansible)
+[![Coverage Badge](https://rcapi.shippable.com/projects/5ad044e973c57407000f8690/coverageBadge?branch=devel)](https://rcapp.shippable.com/github/deepikasl/ansible)
 
 Ansible
 =======
